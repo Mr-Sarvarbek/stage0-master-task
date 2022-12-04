@@ -1,4 +1,4 @@
-package school.mjc.stage0.conditions;
+package com.epam.conditions;
 
 public class BitwiseValuesSwap {
     public void swap(int first, int second) {
