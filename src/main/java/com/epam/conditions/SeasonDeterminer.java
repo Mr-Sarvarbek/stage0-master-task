@@ -1,5 +1,4 @@
-package school.mjc.stage0.conditions;
-
+package com.epam.conditions;
 public class SeasonDeterminer {
     public void tellTheSeason(int monthNumber) {
         switch(monthNumber){
