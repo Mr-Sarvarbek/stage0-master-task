@@ -1,4 +1,4 @@
-package school.mjc.stage0.conditions;
+package com.epam.conditions;
 
 public class DaysInMonth {
     public void printDays(int year, int month) {
