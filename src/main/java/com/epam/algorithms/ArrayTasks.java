@@ -1,4 +1,4 @@
-package com.epam.mjc.stage0;
+package com.epam.algorithms;
 
 
 /**
