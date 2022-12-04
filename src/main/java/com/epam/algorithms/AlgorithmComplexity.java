@@ -1,6 +1,6 @@
-package com.epam.mjc.stage0;
+package com.epam.algorithms;
 
-import com.epam.mjc.stage0.utils.Complexity;
+import com.epam.algorithms.utils.Complexity;
 
 import static javax.swing.text.html.HTML.Attribute.N;
 
