@@ -1,4 +1,4 @@
-package school.mjc.stage0.conditions.finalTask;
+package school.mjc.stage0.conditions;
 
 public class CoordinatePane {
     public void printQuadrant(int x, int y) {
